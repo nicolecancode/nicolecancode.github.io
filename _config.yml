@@ -1,15 +1,15 @@
 # Site settings
-title: 
+title: Array of Thoughts
 header-img: img/home-bg.png
-email: nicole.pretoriusuk@gmail.com
+email: nicole.pretoriusuk+learn@gmail.com
 copyright_name: nicolecancode
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding with Learn
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: nicolecancode
 github_username:  nicolecancode
 learn_profile: nicolecancode
-email_username: nicole.pretoriusuk@gmail.com
+email_username: nicole.pretoriusuk+learn@gmail.com
 
 # Build settings
 markdown: kramdown
